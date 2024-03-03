@@ -1,10 +1,10 @@
 # Wheel of Fortune Game
 
-Welcome to the Colorful Wheel of Fortune Game! Test your luck and see if you can become rich by guessing the correct number on the wheel.
+Welcome to Will You Be Rich? Test your luck and see if you can become rich by guessing the correct number on the wheel.
 
 ## Getting Started
 
-To play the game, simply visit the [Wheel of Fortune Game](https://yourusername.github.io/repositoryname) hosted on GitHub Pages.
+To play the game, simply visit the [Will You Be Rich?](https://yourusername.github.io/repositoryname) hosted on GitHub Pages.
 
 ## Gameplay
 
